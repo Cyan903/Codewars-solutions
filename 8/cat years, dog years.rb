@@ -1,7 +1,6 @@
 # https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b
 
 def human_years_cat_years_dog_years(human_years)
-    # Your code here!
     c = [15, 9]
     
     dog = 0
